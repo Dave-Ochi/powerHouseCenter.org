@@ -2,7 +2,7 @@
 
 A simple, responsive static website for Power House Center built with HTML, CSS, and a small amount of JavaScript.
 
-Live demo: (add your published site URL here)
+Live demo: ( site URL here)
 
 ![Screenshot](assets/images/screenshot.png)
 
@@ -23,7 +23,7 @@ Power House Center is a static site intended to present information about the or
 ## Features
 - Responsive layout for desktop and mobile
 - Clean, minimal CSS-based design
-- Small client-side JavaScript for interactivity (if needed)
+- Small client-side JavaScript for interactivity
 - Easy to deploy via GitHub Pages or any static host
 
 ## Tech stack
@@ -32,7 +32,7 @@ Power House Center is a static site intended to present information about the or
 - JavaScript (vanilla)
 
 ## Folder structure
-Example structure — update if your repo differs:
+Example structure :
 - index.html
 - /css — stylesheets
 - /js — JavaScript files
@@ -62,32 +62,17 @@ OR
 
         npx http-server -c-1
 
-## Deployment (GitHub Pages)
-To publish the site with GitHub Pages:
-1. Ensure `index.html` is at the repository root (or put the built files in a `docs/` folder).
-2. In the repository Settings → Pages:
-   - Select Branch: `main`
-   - Folder: `/ (root)` or `/docs`
-   - Save and wait a few minutes for the site to publish.
-3. (Optional) Add a `CNAME` file with your custom domain and update DNS records (A/ALIAS or CNAME) per GitHub Pages docs.
-4. Enable HTTPS from the Pages settings after publication.
-
-If you prefer automated deployments from a build step, I can add a GitHub Actions workflow to build and deploy.
-
 ## Contributing
 Contributions are welcome. Suggestions:
 - Open an issue for bugs or feature requests.
 - Submit a pull request with a short description of changes.
 - Follow existing code style for HTML/CSS/JS.
 
-If you want a CONTRIBUTING.md, I can create one for you.
-
 ## License
-Choose a license and replace this section (suggested: MIT). Example:
 
 MIT License
 See LICENSE file for details.
 
 ## Contact
 Repository: https://github.com/Dave-Ochi/powerHouseCenter.org
-Author: Dave-Ochi
+Author: David Ochieng'
